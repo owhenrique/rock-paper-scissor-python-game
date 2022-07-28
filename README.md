@@ -33,11 +33,14 @@ Entretando todos os pacotes contidos no arquivo de depedencias necessárias deve
 <br>
 
 <h1 align="center"> Créditos</h1>
-<h align="center">
+<div align="center">
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/owhenrique)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henriqueabdon/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owhenrique/)
+<a href="https://github.com/owhenrique" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+</a>
+<a href="https://www.instagram.com/henriqueabdon/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+</a>
+<a href="https://www.linkedin.com/in/owhenrique/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
 
-</h>
+</div>
 <br>
